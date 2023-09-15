@@ -9,7 +9,7 @@ Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 What am I predicting?
 You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
 
-Columns
+**Columns:**
 * id - a unique identifier for each tweet
 * text - the text of the tweet
 * location - the location the tweet was sent from (may be blank)
